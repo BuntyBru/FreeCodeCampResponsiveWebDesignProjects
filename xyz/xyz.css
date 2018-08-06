@@ -1,0 +1,25 @@
+body
+{
+  background:   #008080;
+
+}
+
+h1
+{
+  text-align: center;
+}
+
+.main-content{
+  background: white;
+  max-width: 900px;
+  width: 70%; 
+  text-align: center;
+  margin: 0 auto;
+ 
+
+}
+
+
+
+
+
